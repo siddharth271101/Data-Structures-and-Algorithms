@@ -1,4 +1,4 @@
-https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+// https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
 
 int Solution::maxSubArray(const vector<int> &A) {
 
