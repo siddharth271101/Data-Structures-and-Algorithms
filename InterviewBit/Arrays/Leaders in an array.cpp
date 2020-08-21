@@ -1,4 +1,4 @@
-https://www.interviewbit.com/problems/leaders-in-an-array/
+// https://www.interviewbit.com/problems/leaders-in-an-array/
 
 vector<int> Solution::solve(vector<int> &A) {
     vector<int> B;
